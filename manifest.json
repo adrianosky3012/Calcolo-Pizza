@@ -2,7 +2,7 @@
   "name": "Calcolo Pizza",
   "short_name": "CalcoloPizza",
   "description": "Ricette e parametri per 4 tipi di pizza: Biga, Autolisi, Integrale, Contemporanea",
-  "start_url": "/",
+  "start_url": "./index.html/",
   "display": "standalone",
   "background_color": "#0f0700",
   "theme_color": "#1a0a00",
